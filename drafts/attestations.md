@@ -208,7 +208,7 @@ events that MUST fail validation. See [`did-vectors`](https://github.com/resolvi
 ## Provenance
 
 Extracted from Resolving Architecture's DID technical design (`../DESIGN.md` §2–§3) for
-standalone review. Author: Resolving Architecture — brian@resolvingarchitecture.io, on
+standalone review. Author: Resolving Architecture — brian@resolvingarchitecture.dev, on
 Nostr `@1M5`
 (`npub12gtp4q9360qflrasyzgdhjf2jzrxc7u5q0h5drem9ft9dufujjaq9kdwj8`).
 
