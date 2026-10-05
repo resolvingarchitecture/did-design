@@ -219,7 +219,7 @@ the rule. Event- and signature-level vectors are in
 
 Extracted from Resolving Architecture's DID technical design (`../DESIGN.md` §4) for
 standalone review and for the Nostr key-rotation discussion. Author: Resolving Architecture
-— brian@resolvingarchitecture.dev, on Nostr `@1M5`
+— brian@resolvingarchitecture.io, on Nostr `@1M5`
 (`npub12gtp4q9360qflrasyzgdhjf2jzrxc7u5q0h5drem9ft9dufujjaq9kdwj8`).
 
 ## License
